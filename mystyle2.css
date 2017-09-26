@@ -1,0 +1,20 @@
+a, h1 {
+    text-decoration: : none;
+    color: red;
+}
+
+p{
+    font-size: l8px;
+    color: darkgrey;
+}
+
+figcaption {
+    font-size: 11px;
+}
+figure {
+    margin-left: 0;
+}
+.photoparagraph {
+    color: purple;
+    font-size: 14px;
+}
